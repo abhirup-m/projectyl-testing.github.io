@@ -4,6 +4,13 @@ title: "Summer Internships"
 
 ---
 
+<meta property="fb:app_id" content="690522761992870" />
+<meta property="fb:admins" content="690522761992870" />
+<meta property="og:url" content="URL" />
+<meta property="og:title" content="TITLE" />
+<meta property="og:description" content="DESC" />
+<meta property="og:image" content="IMG" />
+
 Following are the currently active summer programs. Note that the institute names in the left columns are **hyperlinks** to the respective webpages. It is available for download as a [pdf](/_pages/summer.pdf).
 
 <table>
